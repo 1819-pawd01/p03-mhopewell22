@@ -1,0 +1,70 @@
+/*
+* Myla Hopewell
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+body {
+    background-color: azure;
+    color: black;
+    font-family: monospace;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+/* white using color name */
+thead {
+    color: white;
+    background-color: midnightblue;
+}
+
+/* white using HEX */
+tbody {
+    color: #ffffff;
+    background-color: darkblue
+}
+
+/* White using RGB */
+tfoot {
+    color: rgb(255, 255, 255);
+    background-color: midnightblue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.bio {
+    background-color: palegreen;
+}
+.algebra{
+    background-color: red
+}
+.lit{
+    background-color: blue
+}
+.ss{
+    background-color: mediumpurple
+}
+.gym{
+    background-color: orange
+}
+.wc{
+    background-color: dodgerblue
+}
+.spanish{
+    background-color:greenyellow
+}
+.wp{
+    background-color:darkgoldenrod
+}
